@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+@import "tailwindcss";
+
+@theme{
+  --font-Bebas:"Bebas Neue", "sans-serif";
+  --font-Raleway: "Raleway", "sans-serif";
+  --font-playfair:"Playfair Display", "serif";
+}
+
+body{
+  overflow-x: hidden;
+}
